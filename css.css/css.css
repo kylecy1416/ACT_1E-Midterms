@@ -1,0 +1,20 @@
+
+nav a {
+    text-decoration: none;
+    color: #444;
+    padding: 8px 15px;
+    font-family: sans-serif;
+}
+
+
+nav a:hover {
+    color: #0056b3;
+}
+
+
+.ccst-nexus {
+    background-color: #3b5998; 
+    color: white !important;
+    border-radius: 5px;
+    font-weight: bold;
+}
